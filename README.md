@@ -45,7 +45,7 @@ Execute the following command:
 
     $ python product_sync.py -i <input_file> -e <environment> -j <jwt_token>
 
-e.g `python product_sync.py -i product_codes.csv -e qa -j abcde
+e.g `python product_sync.py -i product_codes.csv -e qa -j abcde`
 
 The script defaults the file to product_codes.csv but the other two values are required or the script will reject them.
 
